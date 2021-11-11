@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>투표하기</title>
+<title>타이틀수정함</title>
 <link rel="icon" href="./favicon.ico">
 </head>
 <body>
