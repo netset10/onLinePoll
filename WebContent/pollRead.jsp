@@ -46,7 +46,8 @@
 			<input type="button" value="결과보기" onclick="location.href='pollResult.jsp'">
 		</td>
 	</tr>
-
+	
+	<br>
 
 </table>
 </form>
